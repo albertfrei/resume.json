@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "droidSerif";
+    src: url(DroidSerif.ttf);
+}
+
+@font-face {
+    font-family: "droidSerifBold";
+    src: url(DroidSerif-Bold.ttf);
+}
+
+body {
+    font-family: "droidSerif", serif;
+
+}
+
+h1, h2 {
+    font-family: "droidSerifBold", serif;
+    z-index: 2;
+}
+
+div {
+    position: relative;
+    left: 70px;
+}
+
+#gradient {
+    height: 20px;
+    width: 100%;
+    background: linear-gradient(to right, white, green);
+    padding: 0px;
+
+} 
+
+.section {
+    display: none;
+}
+
+h2 {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}

@@ -1,0 +1,113 @@
+{
+    "contact": {
+        "name": "Albert Frei",
+        "email": "albert.h.frei@gmail.com",
+        "phone": "(385) 265-1593"
+    },
+    "jobs": [
+        {
+            "position": "Recycling Helper",
+            "company": "UVU",
+            "location": {
+                "city": "Orem",
+                "state": "UT"
+            },
+            "date": {
+                    "beginningMonth": "January",
+                    "beginningYear": "2018",
+                    "endingMonth": "May",
+                    "endingYear": "2018"
+            },
+            "duties": [
+                "Emptied recycling bins in three buildings on a daily basis.",
+                "Baled cardboard."
+            ]
+        },
+        {
+            "position": "Customer Service Representative",
+            "company": "Sykes",
+            "location": {
+                "city": "Provo",
+                "state": "UT"
+            },
+            "date": {
+                    "beginningMonth": "November",
+                    "beginningYear": "2016",
+                    "endingMonth": "January",
+                    "endingYear": "2018"
+            },
+            "duties": [
+                "Took calls from customers concerning their credit card.",
+                "Interacted in a polite and professional manner.",
+                "Kept track of my metrics and set personal goals to improve them."
+            ]
+        },
+        {
+            "position": "Sandwich Artist",
+            "company": "Subway",
+            "location": {
+                "city": "Bremerton",
+                "state": "WA"
+            },
+            "date": {
+                    "beginningMonth": "December",
+                    "beginningYear": "2014",
+                    "endingMonth": "September",
+                    "endingYear": "2016"
+            },
+            "duties": [
+                "Worked quickly and accurately to satisfy customer needs.",
+                "As a team made sandwiches to customer specifications.",
+                "Kept the workplace clean."
+            ]
+        }
+    ],
+    "schools": [
+        {
+            "schoolName": "Utah Valley University",
+            "schoolLocation": {
+                "city": "Orem",
+                "state": "UT"
+            },
+            "date": {
+                "beginningYear": "2016",
+                "endingYear": "Present"
+            },
+            "major": "Computer Science",
+            "details": "Currently in my sophomore year."
+        },
+        {
+            "schoolName": "Olympic High School",
+            "schoolLocation": {
+                "city": "Bremerton",
+                "state": "WA"
+            },
+            "date": {
+                "beginningYear": "2014",
+                "endingYear": "2016"
+            },
+            "major": "",
+            "details": "Graduated in June of 2016."
+        },
+        {
+            "schoolName": "Olympic College",
+            "schoolLocation": {
+                "city": "Bremerton",
+                "state": "WA"
+            },
+            "date": {
+                "beginningYear": "2014",
+                "endingYear": "2015"
+            },
+            "major": "",
+            "details": "I took classes during high school as part of the running start program in Washington state."
+        }
+    ],
+    "skills": {
+            "languages": [
+                "C#", "C++", "Assembly"
+            ]
+    }
+
+}
+
